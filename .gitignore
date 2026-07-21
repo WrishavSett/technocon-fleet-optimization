@@ -1,0 +1,36 @@
+# Python environment
+route_env/
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Logs and outputs
+*.log
+data/output/
+
+# Large map/raw data
+data/osm/raw/
+*.osm.pbf
+*.osm
+*.pbf
+
+# OSRM generated files
+*.osrm
+*.osrm.*
+
+# OS files
+.DS_Store
+Thumbs.db
