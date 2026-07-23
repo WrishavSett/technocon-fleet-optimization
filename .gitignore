@@ -1,5 +1,6 @@
-# Python environment
+# Python / Conda environment
 route_env/
+.conda_pkgs/
 .venv/
 env/
 venv/
